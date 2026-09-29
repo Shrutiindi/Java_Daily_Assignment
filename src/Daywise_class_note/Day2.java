@@ -5,8 +5,7 @@ public class Day2 {
         //num
         byte a=-127;
         byte b=126;
-        short c=32768;
-        short d=32677
+
 
     }
 }
